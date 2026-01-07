@@ -1,15 +1,13 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itfuture01)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itfuture01)
+#### _欢迎来到Itfuture的主页 👋, I'm Itfuture
+我热衷于讨论最新的技术潮流 ⚡ 始终保持求知若渴 ⚡ 谦逊求索 ⚡ 欢迎在此与我交流分享。
 
-  ![](https://stats.justsong.cn/api/leetcode?username=Itfuture&cn=true&lang=zh-CN)![](https://stats.justsong.cn/api/leetcode?username=Itfuture&cn=true)
-  ![](https://stats.justsong.cn/api/csdn?id=weixin_43431218&cn=true&theme=dark&lang=zh-CN)
+![](https://stats.justsong.cn/api/leetcode?username=Itfuture&cn=true&lang=zh-CN)![](https://stats.justsong.cn/api/leetcode?username=Itfuture&cn=true)
 
-![](https://stats.justsong.cn/api/csdn?id=weixin_43431218&cn=true&theme=dark) 
+  ![](https://stats.justsong.cn/api/csdn?id=weixin_43431218&cn=true&theme=dark&lang=zh-CN)![](https://stats.justsong.cn/api/csdn?id=weixin_43431218&cn=true&theme=dark) 
 
-<!--
-**Itfuture-zifeiYu/Itfuture-zifeiYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Itfuture01/Itfuture01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -21,4 +19,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
